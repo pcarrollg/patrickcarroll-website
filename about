@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+	<title>About</title>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400, 600' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link rel='stylesheet' href='../css/stylesheet.css'/>
+
+</head>
+<body>
+<div class="header">
+<ul>
+  <li><a class="active">Patrick Carroll</a></li>
+   <ul style="float:right;list-style-type:none;">
+    <li><a class="link" href="../index.html">Projects</a></li>
+    <li><a class="link" href="../pages/about.html">Resume</a></li>
+    <li><a class="link" href="../pages/contact.html">Contact</a></li>
+  </ul>
+</ul>
+</div>
+
+    <div class="supporting" style="padding-top:50px;padding-bottom:50px;">
+      <div class="container">
+        <div class="col">
+          <h2>Education</h2>
+          <p>MSME degreed Mechanical Engineer with 3 years' diverse experience having completed GE's Edison Engineering Development Program. Candidate seeks software developer position.</p>
+          
+        </div>
+        <div class="col">
+          <h2>Skills</h2>
+          <p>HTML & CSS, Javascript, jQuery, AngularJS, Ruby, Ruby on Rails, and Rails Authentication</p>
+          
+        </div>
+        <div class="col">
+          <h2>Extracurriculars</h2>
+          <p>Outside of working, I am a previous collegiate runner still attempting to be competitive in local 5k's.
+    	  <a href="http://www.letsrun.com" style="text-decoration:none">My favorite website</a>
+          
+        </div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+
+    <div class="left"></div>
+    <div class="right">
+      <h4>Objective</h4>
+      <p>To take a position as a software engineer.</p>
+      <h4>Experience</h4>
+      <p>GE Fuel Cells - Mechanical Engineer</p>
+      <ul>
+        <li>Designed and implemented end-user features for process modeling software in Aspen Custom Modeler and Aspen HYSYS</li>
+        <li>Developed custom executable files that can be used by the broader engineering team for system development.</li>
+        <li>Increased system efficiency 4% and reduced system cost by integrating the costing and system models to drive cost-out and increase performance/efficiency.</li>
+      </ul>
+      <p>GE Power and Water - Edison Engineering Development Program</p>
+      <ul>
+        <li>Rotational Engineering program with 6 months assignments.</li>
+      </ul>
+      <h4>Skills</h4>
+      <p>Languages: JavaScript, Python, Ruby</p>
+      <p>Frameworks: .NET, Node.js, Django, Ruby on Rails</p>
+      <p>MATLAB, Microsoft Office Products, Autodesk, Solid Works, ANSYS
+      <h4>Education</h4>
+      <p>BS Mechanical Engineering, Clarkson Univserity - GPA 4.0</p>
+      <p>MS Mechanical Engineering, Georgia Tech - GPA 3.7</p>
+      <h4>Eagle Scout Project Coordinator - Amanda's House</h4>
+      <p>Organized and oversaw a project that involved refurbishing porches and landscaping for a hospital charity to obtain the highest rank in the Boy Scouts of America - Eagle Scout.</p>
+      <h4>Vice President - Pau Ti Sigma</h4>
+      <p>Responsible for coordinating and planning of initiation for new members, negotiating department funding, planning trip to national convention, and upholding the organizations bylaws and policies </p>
+    </div>
+
+   <div class="footer">
+        <div class="col">
+          <p> &copy Carroll 2016</p>
+        </div>
+        <div class="col">
+          <p> Email: <a href="mailto:pcarrollg@gmail.com" style="text-decoration:none; color:white">Patrick Carroll</a></p>
+        </div>
+        <div class="col">
+          <p> Saratoga Springs, NY</p>
+        </div>
+    </div>
+
+
+</body>
+</html>
