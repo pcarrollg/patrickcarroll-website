@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Patrick Carroll's Resume</title>
+	<link href='https://fonts.googleapis.com/css?family=Raleway:400, 600' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+  <link rel='stylesheet' href='../css/stylesheet.css'/>
+
+</head>
+<body>
+<div class = "backgroundimage2">
+
+<div class="header">
+<ul>
+  <li><a class="active">Patrick Carroll</a></li>
+   <ul style="float:right;list-style-type:none;">
+    <li><a class="link" href="../index.html">Projects</a></li>
+    <li><a class="link" href="../pages/about.html">Resume</a></li>
+    <li><a class="link" href="../pages/contact.html">Contact</a></li>
+  </ul>
+</ul>
+</div>
+
+      <div class="container">  
+        	<a href="https://www.linkedin.com/in/patrick-carroll-26440578" style="text-decoration:none"><h1 class="btn-main2" >LinkedIn</h1></a>
+        	<a href="http://www.indeed.com/r/Patrick-Carroll/fd1ca8bbcef10fbc" style="text-decoration:none"><h1 class="btn-main2" >Indeed</h1></a>
+        	<a href="mailto:pcarrollg@gmail.com" style="text-decoration:none"><h1 class="btn-main2" >Email</h1></a>
+      </div>
+
+</div>
+    <div class="footer">
+        <div class="col">
+          <p> &copy Carroll 2016</p>
+        </div>
+        <div class="col">
+          <p> Email: <a href="mailto:pcarrollg@gmail.com" style="text-decoration:none; color:white">Patrick Carroll</a></p>
+        </div>
+        <div class="col">
+          <p> Saratoga Springs, NY</p>
+        </div>
+    </div>
+
+  </body>
+</html>
